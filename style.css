@@ -1,0 +1,23 @@
+body {
+    margin: 13px 39px 0 100px;
+    background-color: black;
+}
+
+button {
+    margin: -15px 0 0 183px;
+    padding: 7px 11px 7px 11px;
+    background-color: blueviolet;
+    border-radius: 29px;
+    border: none;
+    color: aliceblue;
+}
+
+button:hover {
+    background-color: violet;
+    color: blueviolet;
+    transition: 0.5s;
+}
+
+button:focus {
+    background-color: bisque;
+}
